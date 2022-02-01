@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "897987056136",
+    "project_id": "citiapp-b6ed5",
+    "storage_bucket": "citiapp-b6ed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897987056136:android:f794bf9fc69961aba977bd",
+        "android_client_info": {
+          "package_name": "com.citiapp0630"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897987056136-rpgi51gc1nsrseqf575s9bqgv02jqhri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.citiapp0630",
+            "certificate_hash": "0c4e0b291fdefda310937f2cc5f17309bda9f95a"
+          }
+        },
+        {
+          "client_id": "897987056136-vmj65sdb1g240vh1upgjga8130fhtd1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.citiapp0630",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "897987056136-vkha0cg795fs7oe7budi50gplssfq6b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsUReGJFFQgbX0quVB-E4Jy30lT41MGI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897987056136-vkha0cg795fs7oe7budi50gplssfq6b3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "897987056136-0un6k88gb9qditu36gptepuhgk255g1h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.olivux.citiapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
